@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [KnobResourceDictionary.xaml](./CS/DXGauge_Knob/KnobResourceDictionary.xaml) (VB: [KnobResourceDictionary.xaml](./VB/DXGauge_Knob/KnobResourceDictionary.xaml))
+* [MainPage.xaml](./CS/DXGauge_Knob/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXGauge_Knob/MainPage.xaml))
+<!-- default file list end -->
 # How to create a knob-like gauge 
 
 
