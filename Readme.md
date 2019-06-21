@@ -5,6 +5,9 @@
 * [MainPage.xaml](./CS/DXGauge_Knob/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXGauge_Knob/MainPage.xaml))
 <!-- default file list end -->
 # How to create a knob-like gauge 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3337)**
+<!-- run online end -->
 
 
 <p>The following example illustrates a gauge control that looks and behaves like a typical 'knob' element of a real-life dashboard. This knob replicates the knob-like appearance and provides the capability to interactively modify its value via mouse clicks.</p><br />
